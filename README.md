@@ -7,6 +7,6 @@ Using the [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main/
 ### 1. [MiFID_local](https://github.com/capm/MiFID_OpenAI/blob/main/MiFID_local.ipynb)
 Using FAISS, Pinecone and `load_qa_chain`.
 ### 2. [Tutorial_Langchain](https://github.com/capm/MiFID_OpenAI/blob/main/Tutorial_Langchain.ipynb)
-Using OpenAI different types of query retrievals.
+Using OpenAI different types of query retrievals, following [Sophia Yang tutorial](https://github.com/sophiamyang/tutorials-LangChain/blob/main/LangChain_QA.ipynb).
 ### 3. [Securities-Brokers](https://github.com/capm/MiFID_OpenAI/blob/main/Securities-Brokers.ipynb)
 Using OpenAI API, I translated the document to english and asked questions about it, then asked question using the original language (spanish).
